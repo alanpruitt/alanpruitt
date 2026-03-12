@@ -46,3 +46,9 @@ To ensure research-grade accuracy and safety, my Exercise Science content (EXW10
 * **Location:** Yuma, AZ
 
 > **Note:** All content generated here is optimized for equitable access, prioritizing zero-cost OER standards for community college students.
+>
+> ---
+
+## 📊 Performance Metrics
+![Alan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanyuma-928&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanyuma-928&layout=compact&theme=radical)
