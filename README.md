@@ -24,14 +24,18 @@ All repositories and course architectures within this profile are audited using 
 ## 📜 Single Source of Truth (SSoT)
 To ensure research-grade accuracy and safety, my Exercise Science content (EXW101, EXW150, EXW245, EXW265) adheres strictly to:
 * **Primary:** Physical Activity Guidelines for Americans (PAGA) 2018.
-* **Secondary:** ACSM’s Guidelines for Exercise Testing and Prescription (12th Ed).
+* **Secondary:** ACSM's Guidelines for Exercise Testing and Prescription (12th Ed).
 
 ---
 
 ## 🛠️ Tool Box & Technical Stack
+My workflow is engineered for high-level scalability and institutional agility:
+
 * **LMS:** Canvas (Mobile-first, WCAG 2.1 AA compliant semantic HTML).
-* **Infrastructure:** Infrastructure-as-Code (Markdown, GitHub, VS Code).
-* **AI:** Agentic workflows, prompt engineering (utilizing triple-hash delimiters), and math verification.
+* **IDE:** VS Code (Integrated with **Gemini CLI** for rapid curriculum refactoring).
+* **Infrastructure:** Infrastructure-as-Code (Markdown, GitHub, Git version control).
+* **AI Strategy:** Agentic workflows, math verification, and `###` delimiter protocols.
+* **SSoT Alignment:** Automated clinical auditing against **PAGA 2018 (2nd Ed)**.
 
 ---
 
@@ -77,10 +81,8 @@ I utilize a "Hard-Wired" workflow to ensure scalability and institutional agilit
 ---
 ### Contact & Connectivity
 * **LinkedIn:** [in/alanpruitt](https://www.linkedin.com/in/alanpruitt/)
-* **Location:** Yuma, AZ
+* **Location:** Yuma, AZ, USA
 
-> **Note:** All content generated here is optimized for equitable access, prioritizing zero-cost OER standards for community college students.
->
 > ---
 
 ### 🛡️ Institutional Integrity & OER
@@ -88,7 +90,7 @@ All content within this repository is engineered to eliminate cost barriers for 
 * **Zero-Cost Access:** Prioritizing Open Educational Resources (OER).
 * **Mobile-First:** Optimized for the "Canvas Student" mobile experience.
 * **Disclaimer:** This hub represents my professional work as a Curriculum Architect; all clinical exercise prescriptions must be audited against the PAGA 2018 SSoT.
-
+* **Note:** All content generated here is optimized for equitable access, prioritizing zero-cost OER standards for community college students.
 ---
 ## 📊 Performance Metrics
 ![Alan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanyuma-928&show_icons=true&theme=radical)
