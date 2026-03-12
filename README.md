@@ -14,8 +14,9 @@ This curated library serves as the central hub for my Exercise Science (EXW) cou
 * **Accessibility First:** Fully mobile-responsive and **WCAG 2.1 AA** compliant.
 * **AI-Enhanced:** Developed using the **Gemini CLI** within **VS Code** to refactor bilingual (English/Spanish) clinical tools and automated rubrics.
 * **SSoT:** All tools are hard-wired to **PAGA 2018 (2nd Ed)** standards.
-
----
+> **Architect's Note:** All clinical data and client profiles processed within these tools must be wrapped in `###` delimiters to ensure structural integrity and auditing accuracy against the **PAGA 2018 (2nd Ed)**.
+>
+> ---
 
 ## Professional Identity & Roles
 * **Adjunct Faculty** | Arizona Western College (AWC)
