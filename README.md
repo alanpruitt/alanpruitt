@@ -1,5 +1,4 @@
-# 🛠️ Curriculum Architect: Coach Alan Pruitt
-
+## 🛠️ Curriculum Architect: Coach Alan Pruitt
 ## Narrative Overview
 I am a Curriculum Architect specializing in high-level engineering and institutional agility. My work focuses on bridging the gap between foundational Exercise Science and Generative AI integration. As a **USMC Veteran**, I approach instructional design with a focus on structural integrity, scalability, and the "Mission Loop" framework.
 
