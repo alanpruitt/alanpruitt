@@ -40,6 +40,28 @@ To ensure research-grade accuracy and safety, my Exercise Science content (EXW10
 
 ---
 
+## 🚀 Featured Architectures
+
+### [ua-nutrition-ai-tools](https://github.com/alanyuma-928/ua-nutrition-ai-tools)
+**GenAI Strategy for the UArizona Yuma Food Lab**
+* **### Pattern ###**: Identifying the "hallucination gap" and misinformation in nutritional AI models.
+* **### Rule ###**: Applying U.S. Dietary Guidelines and PAGA 2018 (2nd Ed) as the exclusive SSoT.
+* **### Solve ###**: Engineering agentic prompt workflows and math verification tools for student-led nutritional auditing.
+
+### [exw-course-resources](https://github.com/alanyuma-928/exw-course-resources)
+**Exercise Science Curriculum Hub**
+* **### Pattern ###**: High cost-barriers and low mobile accessibility for 1st-year Kinesiology students.
+* **### Rule ###**: Strict adherence to OER (Open Educational Resources) and PAGA 2018 federal standards.
+* **### Solve ###**: Delivering a version-controlled repository of mobile-first Markdown curriculum and AI-assisted grading rubrics.
+
+### [CanvasLMS](https://github.com/alanyuma-928/CanvasLMS)
+**Institutional Agility & Accessibility**
+* **### Pattern ###**: Inconsistent UI/UX and fragmented navigation across Canvas LMS course modules.
+* **### Rule ###**: Enforcement of **WCAG 2.1 AA** contrast standards and a strict `<h2>` to `<h4>` semantic hierarchy.
+* **### Solve ###**: A library of reusable, accessible HTML/CSS templates designed for high-engagement, mobile-first academic delivery.
+
+---
+
 ### Contact & Connectivity
 * **LinkedIn:** [in/alanpruitt](https://www.linkedin.com/in/alanpruitt/)
 * **Location:** Yuma, AZ
