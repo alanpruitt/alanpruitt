@@ -1,4 +1,5 @@
-![Curriculum Architect Header: Alan Pruitt | AWC & UArizona Yuma | Mission Loop Framework](https://raw.githubusercontent.com/alanyuma-928/alanyuma-928/main/GitHub_alanyuma-928_1024_Banner_Image.png
+![Curriculum Architect Header: Alan Pruitt | AWC & UArizona Yuma | Mission Loop Framework](https://raw.githubusercontent.com/alanyuma-928/alanyuma-928/main/GitHub_alanyuma-928_1024_Banner_Image.png)
+
 ---
 ## 🛠️ Curriculum Architect: Coach Alan Pruitt
 ## Narrative Overview
