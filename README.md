@@ -80,6 +80,35 @@ My workflow is engineered for high-level scalability and institutional agility:
 
 ---
 
+## 🎓 Leadership & Methodology
+
+I am pioneering an **Infrastructure-as-Code** approach to education, moving beyond static document silos toward a dynamic, version-controlled curriculum. By sharing this workflow, I aim to equip fellow educators with the tools for institutional agility.
+
+### 🏗️ The "Markdown for Educators" Workflow
+This workflow eliminates "Format Friction" and ensures that instructional assets are as scalable as the technology that delivers them.
+
+#### 1. ### Pattern ### (The Problem)
+Traditional curriculum development relies on "Static Silos" (Word/PDF). These formats are difficult to version control, lack native mobile responsiveness, and create friction when moving between AI tools, the web, and the LMS.
+
+#### 2. ### Rule ### (The Standard)
+Every instructional asset must be:
+* **Interoperable:** Capable of running in the **Gemini CLI**, VS Code, and Canvas.
+* **Accessible:** Native **WCAG 2.1 AA** compliance through semantic hierarchy.
+* **Auditable:** Plain-text format to allow for Git-based version history.
+
+#### 3. ### Solve ### (The Execution)
+The **Architect's Tech Stack** eliminates friction by moving content through this automated pipeline:
+
+* **Drafting:** Utilize **VS Code** + **Markdown** for distraction-free, structured engineering.
+* **AI-Refactoring:** Leverage the **Gemini CLI** to audit content against **PAGA 2018** or refactor bilingual clinical tools.
+* **Versioning:** Push to **GitHub** to ensure a permanent "Paper Trail" of all pedagogical changes.
+* **Distribution:** Deploy to **GitHub Pages** (Web) and **Canvas LMS** (Mobile) simultaneously.
+
+> ### ⚡ The Force Multiplier
+> "Markdown allows the Architect to spend less time formatting and more time engineering the **Mission Loop**."
+
+---
+
 ## 🛠️ The Architect's Technical Toolkit
 I utilize a "Hard-Wired" workflow to ensure scalability and institutional agility for AWC and UArizona:
 
