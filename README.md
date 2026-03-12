@@ -107,7 +107,7 @@ The **Architect's Tech Stack** eliminates friction by moving content through thi
 > ### ⚡ The Force Multiplier
 > "Markdown allows the Architect to spend less time formatting and more time engineering the **Mission Loop**."
 
----
+> 📖 **Resource:** [Download the Markdown for Faculty Cheat Sheet](./MARKDOWN_CHEAT_SHEET.md)---
 
 ## 🛠️ The Architect's Technical Toolkit
 I utilize a "Hard-Wired" workflow to ensure scalability and institutional agility for AWC and UArizona:
