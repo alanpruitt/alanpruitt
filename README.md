@@ -83,19 +83,18 @@ I utilize a "Hard-Wired" workflow to ensure scalability and institutional agilit
 >
 > ---
 
+### 🛡️ Institutional Integrity & OER
+All content within this repository is engineered to eliminate cost barriers for community college students. 
+* **Zero-Cost Access:** Prioritizing Open Educational Resources (OER).
+* **Mobile-First:** Optimized for the "Canvas Student" mobile experience.
+* **Disclaimer:** This hub represents my professional work as a Curriculum Architect; all clinical exercise prescriptions must be audited against the PAGA 2018 SSoT.
+
+---
 ## 📊 Performance Metrics
 ![Alan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alanyuma-928&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanyuma-928&layout=compact&theme=radical)
 
 ## 📈 Laboratory Activity & Commits
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alanyuma-928&theme=react-dark)
-
----
-
-### 🛡️ Institutional Integrity & OER
-All content within this repository is engineered to eliminate cost barriers for community college students. 
-* **Zero-Cost Access:** Prioritizing Open Educational Resources (OER).
-* **Mobile-First:** Optimized for the "Canvas Student" mobile experience.
-* **Disclaimer:** This hub represents my professional work as a Curriculum Architect; all clinical exercise prescriptions must be audited against the PAGA 2018 SSoT.
 
 ---
