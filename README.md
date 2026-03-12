@@ -62,6 +62,18 @@ To ensure research-grade accuracy and safety, my Exercise Science content (EXW10
 
 ---
 
+## 🛠️ The Architect's Technical Toolkit
+I utilize a "Hard-Wired" workflow to ensure scalability and institutional agility for AWC and UArizona:
+
+| Category | SSoT / Tooling | Standards |
+| :--- | :--- | :--- |
+| **Framework** | Mission Loop | Pattern / Rule / Solve |
+| **Evidence** | PAGA 2018 (2nd Ed) | ACSM 12th Ed |
+| **LMS** | Canvas LMS | WCAG 2.1 AA Compliance |
+| **Syntax** | Markdown / HTML / CSS | Semantic Hierarchy (H2-H4) |
+| **AI Strategy** | Agentic Workflows | `###` Delimiter Protocol |
+
+---
 ### Contact & Connectivity
 * **LinkedIn:** [in/alanpruitt](https://www.linkedin.com/in/alanpruitt/)
 * **Location:** Yuma, AZ
