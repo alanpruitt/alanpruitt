@@ -5,6 +5,18 @@ I am a Curriculum Architect specializing in high-level engineering and instituti
 
 ---
 
+## 🎒 The Flagship: EXW Master Library
+**[Live AI Tool Box & Master Library](https://alanyuma-928.github.io/EXW-Master-Library)**
+
+This curated library serves as the central hub for my Exercise Science (EXW) courses. It utilizes a custom-engineered tech stack to deliver research-grade accuracy directly to students.
+
+* **Integrated Pedagogy:** Built on the **Mission Loop** (Pattern / Rule / Solve).
+* **Accessibility First:** Fully mobile-responsive and **WCAG 2.1 AA** compliant.
+* **AI-Enhanced:** Developed using the **Gemini CLI** within **VS Code** to refactor bilingual (English/Spanish) clinical tools and automated rubrics.
+* **SSoT:** All tools are hard-wired to **PAGA 2018 (2nd Ed)** standards.
+
+---
+
 ## Professional Identity & Roles
 * **Adjunct Faculty** | Arizona Western College (AWC)
 * **Generative AI Strategist** | The University of Arizona – Yuma Campus
