@@ -1,6 +1,5 @@
 ![Curriculum Architect Header: Alan Pruitt | AWC & UArizona Yuma | Mission Loop Framework](https://raw.githubusercontent.com/alanyuma-928/alanyuma-928/main/assets/GitHub_alanyuma-928_1024_Banner_Image.png)
 
----## 🛠️ Curriculum Architect: Coach Alan Pruitt
 ## Narrative Overview
 I am a Curriculum Architect specializing in high-level engineering and institutional agility. My work focuses on bridging the gap between foundational Exercise Science and the integration of Generative AI. As a **USMC Veteran**, I approach instructional design with a focus on structural integrity, scalability, and the "Mission Loop" framework.
 
