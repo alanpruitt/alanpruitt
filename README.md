@@ -2,6 +2,7 @@
 
 ## Narrative Overview
 I am a Curriculum Architect specializing in high-level engineering and institutional agility. My work focuses on bridging the gap between foundational Exercise Science and the integration of Generative AI. As a **USMC Veteran**, I approach instructional design with a focus on structural integrity, scalability, and the "Mission Loop" framework.
+"*Stop writing for the printer, and start writing for the web.*"
 
 ---
 
@@ -106,7 +107,7 @@ The **Architect's Tech Stack** eliminates friction by moving content through thi
 
 > ### ⚡ The Force Multiplier
 > "Markdown allows the Architect to spend less time formatting and more time engineering the **Mission Loop**."
-> "*Stop writing for the printer, and start writing for the web.*"
+
 
 > 📖 **Resource:** [Download the Markdown for Faculty Cheat Sheet](./MARKDOWN_CHEAT_SHEET.md)---
 
