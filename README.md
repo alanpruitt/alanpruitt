@@ -45,7 +45,7 @@ To ensure research-grade accuracy and safety, my Exercise Science content (EXW10
 My workflow is engineered for high-level scalability and institutional agility:
 
 * **LMS:** Canvas (Mobile-first, WCAG 2.1 AA compliant semantic HTML).
-* **IDE:** VS Code (Integrated with **Gemini CLI** for rapid curriculum refactoring).
+* **IDE:** Google Antigravity (Integrated with **Gemma 4** for rapid curriculum refactoring).
 * **Infrastructure:** Infrastructure-as-Code (Markdown, GitHub, Git version control).
 * **AI Strategy:** Agentic workflows, math verification, and `###` delimiter protocols.
 * **SSoT Alignment:** Automated clinical auditing against **PAGA 2018 (2nd Ed)**.
@@ -82,7 +82,7 @@ My workflow is engineered for high-level scalability and institutional agility:
 
 ## 🎓 Leadership & Methodology
 
-I am pioneering an **Infrastructure-as-Code** approach to education, moving beyond static document silos toward a dynamic, version-controlled curriculum. By sharing this workflow, I aim to equip fellow educators with the tools for institutional agility.
+I am pioneering an **Infrastructure-as-Code** approach to education, moving beyond static document silos toward a dynamic, version-controlled curriculum. I'm sharing this workflow to help fellow educators build institutional agility.
 
 ### 🏗️ The "Markdown for Educators" Workflow
 This workflow eliminates "Format Friction" and ensures that instructional assets are as scalable as the technology that delivers them.
@@ -92,20 +92,21 @@ Traditional curriculum development relies on "Static Silos" (Word/PDF). These fo
 
 #### 2. ### Rule ### (The Standard)
 Every instructional asset must be:
-* **Interoperable:** Capable of running in the **Gemini CLI**, VS Code, and Canvas.
+* **Interoperable:** Capable of running in the **Gemini CLI**, Antigravity, Gemma 4, and Canvas.
 * **Accessible:** Native **WCAG 2.1 AA** compliance through semantic hierarchy.
-* **Auditable:** Plain-text format to allow for Git-based version history.
+* **Auditable:** Plain-text (.md) format to allow for Git-based version history.
 
 #### 3. ### Solve ### (The Execution)
 The **Architect's Tech Stack** eliminates friction by moving content through this automated pipeline:
 
-* **Drafting:** Utilize **VS Code** + **Markdown** for distraction-free, structured engineering.
-* **AI-Refactoring:** Leverage the **Gemini CLI** to audit content against **PAGA 2018** or refactor bilingual clinical tools.
+* **Drafting:** Utilize **Antigravity IDE** + **Markdown** for distraction-free, structured engineering.
+* **AI-Refactoring:** Leverage **Gemma 4** to audit content against **PAGA 2018** or refactor bilingual clinical tools.
 * **Versioning:** Push to **GitHub** to ensure a permanent "Paper Trail" of all pedagogical changes.
 * **Distribution:** Deploy to **GitHub Pages** (Web) and **Canvas LMS** (Mobile) simultaneously.
 
 > ### ⚡ The Force Multiplier
 > "Markdown allows the Architect to spend less time formatting and more time engineering the **Mission Loop**."
+> "*Stop writing for the printer, and start writing for the web.*"
 
 > 📖 **Resource:** [Download the Markdown for Faculty Cheat Sheet](./MARKDOWN_CHEAT_SHEET.md)---
 
@@ -128,7 +129,7 @@ I utilize a "Hard-Wired" workflow to ensure scalability and institutional agilit
 > ---
 
 ### 🛡️ Institutional Integrity & OER
-All content within this repository is engineered to eliminate cost barriers for community college students. 
+All content in this repository is designed to reduce cost barriers for community college students. 
 * **Zero-Cost Access:** Prioritizing Open Educational Resources (OER).
 * **Mobile-First:** Optimized for the "Canvas Student" mobile experience.
 * **Disclaimer:** This hub represents my professional work as a Curriculum Architect; all clinical exercise prescriptions must be audited against the PAGA 2018 SSoT.
