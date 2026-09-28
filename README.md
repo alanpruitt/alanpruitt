@@ -1,4 +1,4 @@
-![Curriculum Architect Header: Alan Pruitt | AWC & The University of Arizona Yuma | Mission Loop Framework](https://raw.githubusercontent.com/alanyuma-928/alanyuma-928/main/assets/GitHub_alanyuma-928_1024_Banner_Image.png)
+z![Curriculum Architect Header: Alan Pruitt | AWC & The University of Arizona Yuma | Mission Loop Framework](https://raw.githubusercontent.com/alanyuma-928/alanyuma-928/main/assets/GitHub_alanyuma-928_1024_Banner_Image.png)
 
 ## Narrative Overview
 I am a Curriculum Architect specializing in high-level engineering and institutional agility. My work focuses on bridging the gap between foundational Exercise Science and the integration of Generative AI. As a **USMC Veteran**, I approach instructional design with a focus on structural integrity, scalability, and the "Mission Loop" framework.
@@ -7,7 +7,7 @@ I am a Curriculum Architect specializing in high-level engineering and instituti
 ---
 
 ## 🎒 The Flagship: EXW Master Library
-**[Live AI Tool Box & Master Library](https://alanyuma-928.github.io/EXW-Master-Library)**
+**[Live AI Tool Box & Master Library](https://github.com/alanyuma-928/exw-course-resources)**
 
 This curated library serves as the central hub for my Exercise Science (EXW) courses. It utilizes a custom-engineered tech stack to deliver research-grade accuracy directly to students.
 
