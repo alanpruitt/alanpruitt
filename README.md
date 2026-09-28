@@ -12,8 +12,8 @@ I am a Curriculum Architect specializing in high-level engineering and instituti
 This curated library serves as the central hub for my Exercise Science (EXW) courses. It utilizes a custom-engineered tech stack to deliver research-grade accuracy directly to students.
 
 * **Integrated Pedagogy:** Built on the **Mission Loop** (Pattern / Rule / Solve).
-* **Accessibility First:** Fully mobile-responsive and **WCAG 2.1 AA** compliant.
-* **AI-Enhanced:** Developed using the **Gemini CLI** and **Gemma 4** within **VS Code** to refactor bilingual (English/Spanish) clinical tools and automated rubrics.
+* **Accessibility First:** Fully mobile-responsive and **WCAG 2.2 AA** and emerging **WCAG 3.0** compliant.
+* **AI-Enhanced:** Developed using the **Gemini CLI** and **Gemma 4** within **AGY IDE** to refactor bilingual (English/Spanish) clinical tools and automated rubrics.
 * **SSoT:** All tools are hard-wired to **PAGA 2018 (2nd Ed)** standards.
 > **Architect's Note:** All clinical data and client profiles processed within these tools must be wrapped in `###` delimiters to ensure structural integrity and auditing accuracy against the **PAGA 2018 (2nd Ed)**.
 
@@ -45,8 +45,8 @@ To ensure research-grade accuracy and safety, my Exercise Science content (EXW10
 ## 🛠️ Tool Box & Technical Stack
 My workflow is engineered for high-level scalability and institutional agility:
 
-* **LMS:** Canvas (Mobile-first, WCAG 2.1 AA compliant semantic HTML starting at `<h2>`).
-* **IDE & Local LLMs:** Google Antigravity integrated with **Gemma 4** for rapid, air-gapped curriculum refactoring and agentic code generation.
+* **LMS:** Canvas (Mobile-first, WCAG 2.2 AA compliant semantic HTML starting at `<h2>`).
+* **IDE & Local LLMs:** Google Antigravity (AGY) integrated with **Gemma 4** for rapid, air-gapped curriculum refactoring and agentic code generation.
 * **Infrastructure:** Infrastructure-as-Code (Markdown, GitHub, Git version control).
 * **AI Strategy:** Agentic workflows, math verification, and `###` delimiter protocols.
 * **SSoT Alignment:** Automated clinical auditing against **PAGA 2018 (2nd Ed)**.
@@ -56,6 +56,7 @@ My workflow is engineered for high-level scalability and institutional agility:
 ## 📈 Current Projects
 * **AI-Powered Academic Tool Box:** Engineering a bilingual (English/Spanish) clinical auditing tool for Exercise Science students powered by **Gemma 4**.
 * **EXW Course Refactoring:** Version-controlling curriculum for Fall 2026.
+* **Mobile Edge AI** The University of Arizona (Designated Campus Colleague) - Yuma Campas
 
 ---
 
@@ -119,7 +120,7 @@ I utilize a "Hard-Wired" workflow to ensure scalability and institutional agilit
 | :--- | :--- | :--- |
 | **Framework** | Mission Loop | Pattern / Rule / Solve |
 | **Evidence** | PAGA 2018 (2nd Ed) | ACSM 12th Ed |
-| **LMS** | Canvas LMS | WCAG 2.1 AA Compliance |
+| **LMS** | Canvas LMS | WCAG 2.2 AA Compliance |
 | **Syntax** | Markdown / HTML / CSS | Semantic Hierarchy (H2-H4) |
 | **AI Strategy** | Agentic Workflows / Gemma 4 | `###` Delimiter Protocol |
 
@@ -127,6 +128,7 @@ I utilize a "Hard-Wired" workflow to ensure scalability and institutional agilit
 
 ### Contact & Connectivity
 * **LinkedIn:** [in/alanpruitt](https://www.linkedin.com/in/alanpruitt/)
+* **Substack:** https://substack.com/@alanpruitt
 * **Location:** Yuma, AZ, USA
 
 ---
