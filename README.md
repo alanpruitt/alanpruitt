@@ -95,7 +95,7 @@ Traditional curriculum development relies on "Static Silos" (Word/PDF). These fo
 #### 2. ### Rule ### (The Standard)
 Every instructional asset must be:
 * **Interoperable:** Capable of running in CLI environments, Antigravity, **Gemma 4**, and Canvas.
-* **Accessible:** Native **WCAG 2.1 AA** compliance through semantic hierarchy.
+* **Accessible:** Native **WCAG 2.2 AA** compliance through semantic hierarchy.
 * **Auditable:** Plain-text (.md) format to allow for Git-based version history.
 
 #### 3. ### Solve ### (The Execution)
