@@ -8,7 +8,7 @@ Markdown is a plain-text formatting syntax that allows you to focus on **Content
 ## 🏗️ The Mission Loop Framing
 
 * **### Pattern ###**: Traditional document editors (Word/PDF) create "Format Friction." They are hard to version control, often inaccessible to screen readers, and do not scale across digital platforms.
-* **### Rule ###**: Every piece of curriculum must be **Interoperable, Accessible, and Auditable**. Following a strict Markdown hierarchy ensures **WCAG 2.1 AA** compliance by default.
+* **### Rule ###**: Every piece of curriculum must be **Interoperable, Accessible, and Auditable**. Following a strict Markdown hierarchy ensures **WCAG 2.2 AA** compliance by default.
 * **### Solve ###**: Use this syntax to build high-performance, mobile-first academic infrastructure.
 
 ---
