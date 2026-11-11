@@ -29,6 +29,7 @@ I am a **Curriculum Architect** and **Sovereign AI Strategist** specializing in 
 
 ## Flagship Architecture: Curriculum-as-Code & Zero-Accreditation-Collision OER
 
+* **[Canonical Origin Whitepaper — Curriculum-as-Code (2018–2026)](https://alanpruitt.com/curriculum-as-code/) ([PDF](https://alanpruitt.com/docs/Curriculum-as-Code-Origin-and-Evolution-Whitepaper.pdf)):** Definitive 3-generation historical genealogy and `S-A-R v2.2` reference specification tracing Curriculum-as-Code from 2018 NRE Labs container emulation to 2021 GitHub AI Co-Pilot SSoTs and 2026 neuro-symbolic `DOM GraphRAG` + `W3C PROV-O` + `ADA Title II (9:1)` Compliance-as-Code.
 * **[alanpruitt.com](https://alanpruitt.com) ([Español / Norteño-Spanish](https://alanpruitt.com/es/)):** 40-essay Curriculum-as-Code research corpus, downloadable architecture briefs, and **21/21 (`100.0%`) Achieve OER** syndication packages (`KIN-101`, `HLTH-150`, `KIN-210`, `KIN-245`, `KIN-265`).
 * **[Public Canvas Proof Hub (`exwdemo.dev` / AWC Course `42051`)](https://exwdemo.dev):** Open, non-student-facing Canvas LMS showcase demonstrating 56 born-accessible `9:1` pages, `DOM GraphRAG` (`3,265` nodes), and `W3C PROV-O` cryptographic provenance receipts.
 * **[EXW Digital Tool Kit (`exwtoolkit.com`)](https://exwtoolkit.com):** Bilingual (`EN` / `ES`) Exercise Science & Nutrition edge simulator PWA calibrated for Yuma / Imperial Valley desert heat protocols.
