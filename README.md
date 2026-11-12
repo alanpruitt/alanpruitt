@@ -3,6 +3,7 @@
 [![Portfolio: alanpruitt.com](https://img.shields.io/badge/Portfolio-alanpruitt.com-002147)](https://alanpruitt.com)
 [![Webcognita LLC (SDVOSB)](https://img.shields.io/badge/Webcognita%20LLC-SDVOSB%20(UEI%20EZ34U9KNJA17)-002147)](https://www.webcognita.com)
 [![ORCID: 0009-0002-5038-7111](https://img.shields.io/badge/ORCID-0009--0002--5038--7111-002147?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-5038-7111)
+[![DOI: 10.5281/zenodo.24170270](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24170270-002147?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.24170270)
 [![Zenodo: Curriculum-as-Code](https://img.shields.io/badge/Zenodo-curriculum--as--code-002147?logo=zenodo&logoColor=white)](https://zenodo.org/communities/curriculum-as-code)
 [![Zenodo: Webcognita R&D](https://img.shields.io/badge/Zenodo-webcognita-002147?logo=zenodo&logoColor=white)](https://zenodo.org/communities/webcognita)
 [![Google Developer Profile: Alan Pruitt (Gemini Certified Faculty & Cloud Launchpad)](https://img.shields.io/badge/Google%20Developers-Verified%20Profile-002147?logo=googledevelopers&logoColor=white)](https://me.developers.google.com/u/alanpruitt)
@@ -23,7 +24,7 @@ I pioneer **Curriculum-as-Code (`S-A-R Standard v2.2` — Scalable / Auditable /
 
 - **Research Observatory & 40-Essay Corpus:** [https://alanpruitt.com/](https://alanpruitt.com/) ([Español / Norteño-Spanish](https://alanpruitt.com/es/)) • [92-Entry Master Research Log](https://alanpruitt.com/research-log/)
 - **Webcognita LLC (`SDVOSB / VOSB`):** [https://www.webcognita.com/](https://www.webcognita.com/) • [1-Page Federal Capabilities Statement](https://www.webcognita.com/capabilities-statement.html) ([PDF](https://www.webcognita.com/assets/Webcognita_LLC_Capabilities_Statement.pdf)) • [2-Page ATS Principal Resume / CV (`FAR 15.305`)](https://www.webcognita.com/principal-qualifications.html) ([PDF](https://www.webcognita.com/docs/Webcognita_LLC_Principal_Qualifications_CV.pdf))
-- **Origin White Paper 00 (`Tech. Report S-A-R-v2.2-ORIGIN`):** [From Infrastructure Automation to Clinical Pedagogy: The Origin and Evolution of Curriculum-as-Code (2018–2026)](https://alanpruitt.com/curriculum-as-code/) ([2-Page PDF](https://alanpruitt.com/docs/Curriculum-as-Code-Origin-and-Evolution-Whitepaper.pdf))
+- **Origin White Paper 00 (`Tech. Report S-A-R-v2.2-ORIGIN`):** [From Infrastructure Automation to Clinical Pedagogy: The Origin and Evolution of Curriculum-as-Code (2018–2026)](https://alanpruitt.com/curriculum-as-code/) ([DOI: `10.5281/zenodo.24170270`](https://doi.org/10.5281/zenodo.24170270) • [DOM GraphRAG `DOI: 10.5281/zenodo.24170994`](https://doi.org/10.5281/zenodo.24170994) • [WCAG 3.0 APCA `DOI: 10.5281/zenodo.24172299`](https://doi.org/10.5281/zenodo.24172299))
 - **ORCID, CERN Zenodo, Google Developer Profile & Substack:** [orcid.org/0009-0002-5038-7111](https://orcid.org/0009-0002-5038-7111) • [zenodo.org/communities/curriculum-as-code](https://zenodo.org/communities/curriculum-as-code) • [zenodo.org/communities/webcognita](https://zenodo.org/communities/webcognita) • [g.dev/alanpruitt](https://me.developers.google.com/u/alanpruitt) • [linkedin.com/in/alanpruitt](https://www.linkedin.com/in/alanpruitt/) • [alanpruitt.substack.com](https://alanpruitt.substack.com/)
 
 ---
