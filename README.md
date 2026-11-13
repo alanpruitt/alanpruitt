@@ -12,7 +12,7 @@
 
 # Alan Pruitt (Coach Alan) — Founder & Principal, Webcognita LLC | Curriculum Architect & Sovereign AI Strategist
 
-I am **Alan Lee Pruitt, B.S. ("Coach Alan")**, Founder, Principal & Chief Curriculum Architect of **[Webcognita LLC](https://www.webcognita.com/)** (`VOSB` • `SAM.gov UEI: EZ34U9KNJA17` • `CAGE: 4ZCN6` • `Primary NAICS: 541511`), Exercise Science Adjunct Faculty at **Arizona Western College (`AWC`)**, and pro bono Generative AI Strategist & Designated Campus Colleague (`DCC`) at **The University of Arizona — School of Nutritional Sciences and Wellness (Yuma Campus)**.
+I am **Alan Lee Pruitt, B.S. ("Coach Alan")**, Founder, Principal & Chief Curriculum Architect of **[Webcognita LLC](https://www.webcognita.com/)** (`VOSB` • `SAM.gov UEI: EZ34U9KNJA17` • `CAGE: 4ZCN6` • `Primary NAICS: 541511`), contract-only / stipend-only Exercise Science Adjunct Faculty at **Arizona Western College (`AWC`)** (`<10 hrs/wk` asynchronous), and strictly volunteer, unpaid Generative AI Strategist & Designated Campus Colleague (`DCC`) at **The University of Arizona — School of Nutritional Sciences and Wellness (Yuma Campus)** (`≤6 hrs/wk`).
 
 I pioneer **Curriculum-as-Code (`S-A-R Standard v2.2` — Scalable / Auditable / Repeatable)**, **Compliance-as-Code (`ADA Title II` / `WCAG 2.2 AA 9:1` / `WCAG 3.0`)**, **DOM GraphRAG (`3,265` pedagogical graph nodes)**, **W3C PROV-O** cryptographic provenance, and air-gapped **Apple Silicon Edge AI** running open-weight Google **Gemini Carbon 4** and **Gemma 4** models grounded in primary federal and scientific Single Sources of Truth (`SSoT`).
 
@@ -32,10 +32,10 @@ I pioneer **Curriculum-as-Code (`S-A-R Standard v2.2` — Scalable / Auditable /
 ## Professional Identity, Education, Cleared Pedigree & Honors
 
 - **ORCID Researcher Identifier:** [0009-0002-5038-7111](https://orcid.org/0009-0002-5038-7111) (`https://orcid.org/0009-0002-5038-7111`)
-- **Founder & Principal Consultant** | **[Webcognita LLC](https://www.webcognita.com/)** (`VOSB` • `SAM.gov UEI: EZ34U9KNJA17` • `CAGE: 4ZCN6` • `EIN: 81-0809739` • `NAICS: 541511, 541512, 541715, 611710, 541690` • `PSC: U008, U012, DA01, DJ01, R425, AN12`)
-- **Exercise Science Adjunct Faculty (`EXW`)** | **Arizona Western College** (Hispanic-Serving Institution — Yuma, AZ / Imperial Valley, CA)
-- **Generative AI Strategist & Designated Campus Colleague (`DCC`)** | **The University of Arizona** — School of Nutritional Sciences and Wellness (Yuma Campus)
-- **Education:** **Bachelor of Science in Management (B.S.)** — *University of Phoenix — Phoenix, AZ*
+- **Founder & Principal Consultant** | **[Webcognita LLC](https://www.webcognita.com/)** (`VOSB` • `100% Sole-Member LLC` • `1906 S 6th Ave, Yuma, AZ 85364` • `SAM.gov UEI: EZ34U9KNJA17` • `CAGE: 4ZCN6` • `EIN: 81-0809739` • `NAICS: 541511, 541512, 541715, 611710, 541690` • `PSC: U008, U012, DA01, DJ01, R425, AN12`)
+- **Exercise Science Adjunct Faculty (`EXW` — Contract-Only / Stipend-Only • `<10 hrs/wk` Asynchronous)** | **Arizona Western College** (Hispanic-Serving Institution — Yuma, AZ / Imperial Valley, CA)
+- **Generative AI Strategist & Designated Campus Colleague (`DCC` — Strictly Volunteer / Unpaid Affiliation • `≤6 hrs/wk`)** | **The University of Arizona** — School of Nutritional Sciences and Wellness (Yuma Campus)
+- **Education:** **Bachelor of Science in Management (B.S., Graduated 1999)** — *University of Phoenix — Phoenix, AZ*
 - **Cleared Security Pedigree:** **U.S. Marine Corps (`USMC`) & U.S. Army Counterintelligence (`CI`) Veteran** with a documented background holding a **Top Secret / SCI (`SI/TK`) security clearance** and leading elite 15-person **Technical Surveillance Countermeasures (`TSCM`)** operations.
 - **Verified 4-Credential Google Stack ([`g.dev/alanpruitt`](https://me.developers.google.com/u/alanpruitt)):**
   - **[Google Gemini Certified Faculty](https://edu.google.accredible.com/22b51965-eadb-4477-a9ac-1b1e2c4a45f2)** (*Blockchain `0x34c3d7...` • Valid May 2026–May 2029*)
@@ -79,7 +79,7 @@ Under **The Centaur Protocol**, students train as **Problem Framers (Architect /
 ### 3. [ua-nutrition-ai-tools](https://github.com/alanpruitt/ua-nutrition-ai-tools) & 8 Live Progressive Web Applications
 - **[exwtoolkit.com](https://exwtoolkit.com):** 9-Box bilingual (`EN` / `ES`) clinical kinesiology, desert heat-stress, and cryptographic verification PWA.
 - **[paga2018.dev](https://paga2018.dev) & [exwdemo.dev](https://exwdemo.dev):** `$0 ZTC` PAGA 2018 clinical activity audit OER and zero-login PWA mirror of public AWC Canvas Course `42051` (`256` `10/10` Exemplar Solves).
-- **[flavorarchitect.dev](https://flavorarchitect.dev/) & [arquitectodelsabor.dev](https://arquitectodelsabor.dev/):** UArizona NSW Foods Lab culinary medicine & [Food Informatics](https://flavorarchitect.dev/food-informatics) R&D workbench (`DGA 2025–2030`, USDA FDC) and bi-national Arizona–Sonora (`es-MX` / `MXN`) borderlands engine.
+- **[flavorarchitect.dev](https://flavorarchitect.dev/) & [arquitectodelsabor.dev](https://arquitectodelsabor.dev/):** The University of Arizona NSW Foods Lab culinary medicine & [Food Informatics](https://flavorarchitect.dev/food-informatics) R&D workbench (`DGA 2025–2030`, USDA FDC) and bi-national Arizona–Sonora (`es-MX` / `MXN`) borderlands engine.
 - **[mdtodocs.app](https://mdtodocs.app), [prompt-mile-hero](https://prompt-mile-hero.lovable.app) & [agflow-roi-dash](https://agflow-roi-dash.lovable.app):** Born-accessible Markdown-to-PDF/DOCX/HTML compiler, active-transit CO2/AI compute offset utility, and Yuma/Imperial Valley 5G smart-irrigation ROI suite (plus [alanpruitt.com/edge-inat/](https://alanpruitt.com/edge-inat/) offline BioCLIP desert species computer vision).
 
 ### 4. [exw-course-resources](https://github.com/alanpruitt/exw-course-resources) & [CanvasLMS](https://github.com/alanpruitt/CanvasLMS)
