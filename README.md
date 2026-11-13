@@ -1,7 +1,7 @@
 ![Alan Pruitt — Founder & Principal of Webcognita LLC, Curriculum Architect & Sovereign AI Strategist](https://raw.githubusercontent.com/alanpruitt/alanpruitt/main/assets/GitHub_alanyuma-928_1024_Banner_Image.png)
 
 [![Portfolio: alanpruitt.com](https://img.shields.io/badge/Portfolio-alanpruitt.com-002147)](https://alanpruitt.com)
-[![Webcognita LLC (SDVOSB)](https://img.shields.io/badge/Webcognita%20LLC-SDVOSB%20(UEI%20EZ34U9KNJA17)-002147)](https://www.webcognita.com)
+[![Webcognita LLC (VOSB)](https://img.shields.io/badge/Webcognita%20LLC-VOSB%20(UEI%20EZ34U9KNJA17)-002147)](https://www.webcognita.com)
 [![ORCID: 0009-0002-5038-7111](https://img.shields.io/badge/ORCID-0009--0002--5038--7111-002147?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-5038-7111)
 [![DOI: 10.5281/zenodo.24170270](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.24170270-002147?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.24170270)
 [![Zenodo: Curriculum-as-Code](https://img.shields.io/badge/Zenodo-curriculum--as--code-002147?logo=zenodo&logoColor=white)](https://zenodo.org/communities/curriculum-as-code)
@@ -12,7 +12,7 @@
 
 # Alan Pruitt (Coach Alan) — Founder & Principal, Webcognita LLC | Curriculum Architect & Sovereign AI Strategist
 
-I am **Alan Lee Pruitt, B.S. ("Coach Alan")**, Founder, Principal & Chief Curriculum Architect of **[Webcognita LLC](https://www.webcognita.com/)** (`SDVOSB / VOSB` • `SAM.gov UEI: EZ34U9KNJA17` • `CAGE: 4ZCN6` • `Primary NAICS: 541511`), Exercise Science Adjunct Faculty at **Arizona Western College (`AWC`)**, and pro bono Generative AI Strategist & Designated Campus Colleague (`DCC`) at **The University of Arizona — School of Nutritional Sciences and Wellness (Yuma Campus)**.
+I am **Alan Lee Pruitt, B.S. ("Coach Alan")**, Founder, Principal & Chief Curriculum Architect of **[Webcognita LLC](https://www.webcognita.com/)** (`VOSB` • `SAM.gov UEI: EZ34U9KNJA17` • `CAGE: 4ZCN6` • `Primary NAICS: 541511`), Exercise Science Adjunct Faculty at **Arizona Western College (`AWC`)**, and pro bono Generative AI Strategist & Designated Campus Colleague (`DCC`) at **The University of Arizona — School of Nutritional Sciences and Wellness (Yuma Campus)**.
 
 I pioneer **Curriculum-as-Code (`S-A-R Standard v2.2` — Scalable / Auditable / Repeatable)**, **Compliance-as-Code (`ADA Title II` / `WCAG 2.2 AA 9:1` / `WCAG 3.0`)**, **DOM GraphRAG (`3,265` pedagogical graph nodes)**, **W3C PROV-O** cryptographic provenance, and air-gapped **Apple Silicon Edge AI** running open-weight Google **Gemini Carbon 4** and **Gemma 4** models grounded in primary federal and scientific Single Sources of Truth (`SSoT`).
 
@@ -23,7 +23,7 @@ I pioneer **Curriculum-as-Code (`S-A-R Standard v2.2` — Scalable / Auditable /
 ## Executive & Procurement Directory
 
 - **Research Observatory & 40-Essay Corpus:** [https://alanpruitt.com/](https://alanpruitt.com/) ([Español / Norteño-Spanish](https://alanpruitt.com/es/)) • [92-Entry Master Research Log](https://alanpruitt.com/research-log/)
-- **Webcognita LLC (`SDVOSB / VOSB`):** [https://www.webcognita.com/](https://www.webcognita.com/) • [1-Page Federal Capabilities Statement](https://www.webcognita.com/capabilities-statement.html) ([PDF](https://www.webcognita.com/assets/Webcognita_LLC_Capabilities_Statement.pdf)) • [2-Page ATS Principal Resume / CV (`FAR 15.305`)](https://www.webcognita.com/principal-qualifications.html) ([PDF](https://www.webcognita.com/docs/Webcognita_LLC_Principal_Qualifications_CV.pdf))
+- **Webcognita LLC (`VOSB`):** [https://www.webcognita.com/](https://www.webcognita.com/) • [1-Page Federal Capabilities Statement](https://www.webcognita.com/capabilities-statement.html) ([PDF](https://www.webcognita.com/assets/Webcognita_LLC_Capabilities_Statement.pdf)) • [2-Page ATS Principal Resume / CV (`FAR 15.305`)](https://www.webcognita.com/principal-qualifications.html) ([PDF](https://www.webcognita.com/docs/Webcognita_LLC_Principal_Qualifications_CV.pdf))
 - **Origin White Paper 00 (`Tech. Report S-A-R-v2.2-ORIGIN`):** [From Infrastructure Automation to Clinical Pedagogy: The Origin and Evolution of Curriculum-as-Code (2018–2026)](https://alanpruitt.com/curriculum-as-code/) ([DOI: `10.5281/zenodo.24170270`](https://doi.org/10.5281/zenodo.24170270) • [DOM GraphRAG `DOI: 10.5281/zenodo.24170994`](https://doi.org/10.5281/zenodo.24170994) • [WCAG 3.0 APCA `DOI: 10.5281/zenodo.24172299`](https://doi.org/10.5281/zenodo.24172299))
 - **ORCID, CERN Zenodo, Google Developer Profile & Substack:** [orcid.org/0009-0002-5038-7111](https://orcid.org/0009-0002-5038-7111) • [zenodo.org/communities/curriculum-as-code](https://zenodo.org/communities/curriculum-as-code) • [zenodo.org/communities/webcognita](https://zenodo.org/communities/webcognita) • [g.dev/alanpruitt](https://me.developers.google.com/u/alanpruitt) • [linkedin.com/in/alanpruitt](https://www.linkedin.com/in/alanpruitt/) • [alanpruitt.substack.com](https://alanpruitt.substack.com/)
 
@@ -32,7 +32,7 @@ I pioneer **Curriculum-as-Code (`S-A-R Standard v2.2` — Scalable / Auditable /
 ## Professional Identity, Education, Cleared Pedigree & Honors
 
 - **ORCID Researcher Identifier:** [0009-0002-5038-7111](https://orcid.org/0009-0002-5038-7111) (`https://orcid.org/0009-0002-5038-7111`)
-- **Founder & Principal Consultant** | **[Webcognita LLC](https://www.webcognita.com/)** (`SDVOSB / VOSB` • `SAM.gov UEI: EZ34U9KNJA17` • `CAGE: 4ZCN6` • `EIN: 81-0809739` • `NAICS: 541511, 541512, 541715, 611710, 541690` • `PSC: U008, U012, DA01, DJ01, R425, AN12`)
+- **Founder & Principal Consultant** | **[Webcognita LLC](https://www.webcognita.com/)** (`VOSB` • `SAM.gov UEI: EZ34U9KNJA17` • `CAGE: 4ZCN6` • `EIN: 81-0809739` • `NAICS: 541511, 541512, 541715, 611710, 541690` • `PSC: U008, U012, DA01, DJ01, R425, AN12`)
 - **Exercise Science Adjunct Faculty (`EXW`)** | **Arizona Western College** (Hispanic-Serving Institution — Yuma, AZ / Imperial Valley, CA)
 - **Generative AI Strategist & Designated Campus Colleague (`DCC`)** | **The University of Arizona** — School of Nutritional Sciences and Wellness (Yuma Campus)
 - **Education:** **Bachelor of Science in Management (B.S.)** — *University of Phoenix — Phoenix, AZ*
@@ -65,7 +65,7 @@ Under **The Centaur Protocol**, students train as **Problem Framers (Architect /
 ## Featured Public Repositories & 8-App Sovereign PWA Ecosystem
 
 ### 1. [webcognita](https://github.com/alanpruitt/webcognita) (`https://www.webcognita.com/`)
-**Sovereign AI Strategy, Curriculum-as-Code & 50-State Non-Competing Enabling Resource (`SDVOSB / VOSB`)**
+**Sovereign AI Strategy, Curriculum-as-Code & 50-State Non-Competing Enabling Resource (`VOSB`)**
 - **Pattern:** Institutions pursuing **U.S. DOL TEN No. 07-25**, **NSF TechAccess: AI-Ready America**, and **ADA Title II (`28 CFR Part 35`)** mandates face proprietary cloud lock-in and manual LMS accessibility backlogs.
 - **Rule:** Deterministic **S-A-R Standard v2.2**, `WCAG 2.2 AA (9:1)` + `WCAG 3.0` CI/CD pre-commit gates, and verified federal procurement standing (`UEI: EZ34U9KNJA17` • `CAGE: 4ZCN6`).
 - **Solve:** Turnkey Curriculum-as-Code compilers, air-gapped Apple Silicon Edge AI (`Ollama` / `Gemini Carbon 4` / `Gemma 4`), and Food Informatics R&D.
