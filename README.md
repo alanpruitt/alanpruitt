@@ -62,7 +62,7 @@ Under **The Centaur Protocol**, students train as **Problem Framers (Architect /
 
 ---
 
-## Featured Public Repositories & 8-App Sovereign PWA Ecosystem
+## Featured Public Repositories & 9-App Sovereign PWA Ecosystem
 
 ### 1. [webcognita](https://github.com/alanpruitt/webcognita) (`https://www.webcognita.com/`)
 **Sovereign AI Strategy, Curriculum-as-Code & 50-State Non-Competing Enabling Resource (`VOSB`)**
@@ -76,10 +76,11 @@ Under **The Centaur Protocol**, students train as **Problem Framers (Architect /
 - **Rule:** `WCAG 2.2 AA (9:1 Double-Contrast Guard)` and 4-Tier `Schema.org/Dataset` + `LRMI educationalAlignment` (`CCSS` / `WA ELA` + Federal Clinical SSoTs + `US-DOL-TEN-07-25` + `HLC` outcomes).
 - **Solve:** Hugo static publishing pipeline (`100/100/100/100` Lighthouse v13), `llms.txt` discovery, and SHA-256 checksummed `$0 ZTC` OER `.zip` distributions (`KIN-101`, `HLTH-150`, `KIN-210`, `KIN-245`, `KIN-265`).
 
-### 3. [ua-nutrition-ai-tools](https://github.com/alanpruitt/ua-nutrition-ai-tools) & 8 Live Progressive Web Applications
+### 3. [ua-nutrition-ai-tools](https://github.com/alanpruitt/ua-nutrition-ai-tools) & 9 Live Progressive Web Applications
 - **[exwtoolkit.com](https://exwtoolkit.com):** 9-Box bilingual (`EN` / `ES`) clinical kinesiology, desert heat-stress, and cryptographic verification PWA.
 - **[paga2018.dev](https://paga2018.dev) & [exwdemo.dev](https://exwdemo.dev):** `$0 ZTC` PAGA 2018 clinical activity audit OER and zero-login PWA mirror of public AWC Canvas Course `42051` (`256` `10/10` Exemplar Solves).
 - **[flavorarchitect.dev](https://flavorarchitect.dev/) & [arquitectodelsabor.dev](https://arquitectodelsabor.dev/):** The University of Arizona NSW Foods Lab culinary medicine & [Food Informatics](https://flavorarchitect.dev/food-informatics) R&D workbench (`DGA 2025–2030`, USDA FDC) and bi-national Arizona–Sonora (`es-MX` / `MXN`) borderlands engine.
+- **[gail2026.dev](https://gail2026.dev):** `$0 ZTC` bilingual (`EN` / `ES`) 4-Tier Frontier AI Leader & 50-State K–16 Workforce Readiness PWA (`NAICS 541511`, hydrated from canonical SSoT [`alanpruitt.com/gail2026/`](https://alanpruitt.com/gail2026/) with `W3C SKOS` ontology and `W3C PROV-O` `SHA-256` readiness receipts).
 - **[mdtodocs.app](https://mdtodocs.app), [prompt-mile-hero](https://prompt-mile-hero.lovable.app) & [agflow-roi-dash](https://agflow-roi-dash.lovable.app):** Born-accessible Markdown-to-PDF/DOCX/HTML compiler, active-transit CO2/AI compute offset utility, and Yuma/Imperial Valley 5G smart-irrigation ROI suite (plus [alanpruitt.com/edge-inat/](https://alanpruitt.com/edge-inat/) offline BioCLIP desert species computer vision).
 
 ### 4. [exw-course-resources](https://github.com/alanpruitt/exw-course-resources) & [CanvasLMS](https://github.com/alanpruitt/CanvasLMS)
